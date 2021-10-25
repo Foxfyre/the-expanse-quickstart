@@ -1,0 +1,172 @@
+[
+    {
+        "_id": "KRnPpTbzCVINsD4V",
+        "name": "Adventure",
+        "type": "JournalEntry",
+        "parent": "e7161gznuE9ezT6N",
+        "sorting": "m",
+        "sort": 62500,
+        "color": "#00c732",
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Cupbearer"
+            }
+        }
+    },
+    {
+        "_id": "Af26kPsqkqVSE47S",
+        "name": "Combat Stunts",
+        "type": "Item",
+        "parent": "DnbgpQFNdmdrroaN",
+        "sorting": "m",
+        "sort": 0,
+        "color": "#5729ff",
+        "flags": {}
+    },
+    {
+        "_id": "e7161gznuE9ezT6N",
+        "name": "Cupbearer",
+        "type": "JournalEntry",
+        "parent": "hgIzKW00d7xDtAHS",
+        "sorting": "m",
+        "sort": 100000,
+        "color": "#007bff",
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Quickstart"
+            }
+        }
+    },
+    {
+        "_id": "HKAmeX1Y1r3Qwihj",
+        "name": "Exploration Stunts",
+        "type": "Item",
+        "parent": "DnbgpQFNdmdrroaN",
+        "sorting": "m",
+        "sort": 0,
+        "color": "#00a851",
+        "flags": {}
+    },
+    {
+        "_id": "eFdg8Y7MwN6NUsUg",
+        "name": "GM Assets",
+        "type": "JournalEntry",
+        "parent": "e7161gznuE9ezT6N",
+        "sorting": "m",
+        "sort": 25000,
+        "color": "#fc47ff",
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Cupbearer"
+            }
+        }
+    },
+    {
+        "_id": "4okIZN4ls32sEWtO",
+        "name": "NPCs",
+        "type": "Actor",
+        "parent": null,
+        "sorting": "m",
+        "sort": 100000,
+        "color": "#2e51ff",
+        "flags": {}
+    },
+    {
+        "_id": "XMAiaBQ71cBCeoPM",
+        "name": "Player Handouts",
+        "type": "JournalEntry",
+        "parent": "e7161gznuE9ezT6N",
+        "sorting": "a",
+        "sort": 43750,
+        "color": "#fd2b39",
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Cupbearer"
+            }
+        }
+    },
+    {
+        "_id": "QdQyKHxghAvI0dfg",
+        "name": "Pregens",
+        "type": "Actor",
+        "parent": null,
+        "sorting": "a",
+        "sort": 0,
+        "color": "#ff6f00",
+        "flags": {}
+    },
+    {
+        "_id": "hgIzKW00d7xDtAHS",
+        "name": "Quickstart",
+        "type": "JournalEntry",
+        "parent": null,
+        "sorting": "m",
+        "sort": -100000,
+        "color": "#6929ff",
+        "flags": {}
+    },
+    {
+        "_id": "wg4AWwmc99Xy2HSU",
+        "name": "Quickstart Rules",
+        "type": "JournalEntry",
+        "parent": "hgIzKW00d7xDtAHS",
+        "sorting": "m",
+        "sort": 0,
+        "color": "#0091ff",
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Quickstart"
+            }
+        }
+    },
+    {
+        "_id": "ENVNiI7XzWM3bY96",
+        "name": "Social Stunts",
+        "type": "Item",
+        "parent": "DnbgpQFNdmdrroaN",
+        "sorting": "m",
+        "sort": 0,
+        "color": "#00ccff",
+        "flags": {}
+    },
+    {
+        "_id": "DnbgpQFNdmdrroaN",
+        "name": "Stunts",
+        "type": "Item",
+        "parent": null,
+        "sorting": "a",
+        "sort": 0,
+        "color": "#014b6a",
+        "flags": {}
+    },
+    {
+        "_id": "bNyXU9sj2AJipUv1",
+        "name": "Style Guide",
+        "type": "JournalEntry",
+        "parent": null,
+        "sorting": "m",
+        "sort": 0,
+        "color": "#097901",
+        "flags": {}
+    },
+    {
+        "_id": "jFh0C0GMoJedx8qs",
+        "name": "Talents",
+        "type": "Item",
+        "parent": null,
+        "sorting": "a",
+        "sort": 0,
+        "color": "#1db927",
+        "flags": {}
+    },
+    {
+        "_id": "mPlbN6l2zz1Wmv1q",
+        "name": "Weapons",
+        "type": "Item",
+        "parent": null,
+        "sorting": "a",
+        "sort": 0,
+        "color": "#d10000",
+        "flags": {}
+    }
+]

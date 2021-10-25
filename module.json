@@ -1,0 +1,53 @@
+{
+  "name": "the-expanse-quickstart",
+  "title": "The Expanse Quickstart",
+  "description": "The quickstart for The Expanse by Green Ronin. This contains Module contains everything you need to run your first game of The Expanse. The Expanse system is required for this module to function",
+  "version": "0.6.0",
+  "author": "Charlotte Hamilton",
+  "system": [
+    "the_expanse"
+  ],
+  "scripts": [
+    "initialization.js"
+  ],
+  "packs": [
+    {
+      "label": "Items (Quickstart)",
+      "entity": "Item",
+      "name": "items-quickstart",
+      "path": "packs/items-quickstart.db",
+      "system": "the_expanse",
+      "tags": [
+        "weapons",
+        "talents",
+        "stunts"
+      ]
+    },
+    {
+      "label": "Actors (Quickstart)",
+      "entity": "Actor",
+      "name": "actors-quickstart",
+      "path": "packs/actors-quickstart.db",
+      "system": "the_expanse"
+    },
+    {
+      "label": "Journals (Quickstart)",
+      "entity": "JournalEntry",
+      "name": "journals-quickstart",
+      "path": "packs/journals-quickstart.db",
+      "system": "the_expanse"
+    }
+  ],
+  "flags": {
+    "initializationPacks": [
+      "the-expanse-quickstart.items-quickstart",
+      "the-expanse-quickstart.actors-quickstart",
+      "the-expanse-quickstart.journals-quickstart"
+    ]
+  },
+  "languages": [],
+  "minimumCoreVersion": "0.8.1",
+  "compatibleCoreVersion": "0.8.8",
+  "url": "https://github.com/Foxfyre/the_expanse",
+  "manifest": "C:/Users/foxfy/AppData/Local/FoundryVTT/Data/modules/the-expanse-quickstart/module.json"
+}
