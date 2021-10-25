@@ -21,7 +21,11 @@
         "sorting": "m",
         "sort": 0,
         "color": "#5729ff",
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Stunts"
+            }
+        }
     },
     {
         "_id": "e7161gznuE9ezT6N",
@@ -45,7 +49,11 @@
         "sorting": "m",
         "sort": 0,
         "color": "#00a851",
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Stunts"
+            }
+        }
     },
     {
         "_id": "eFdg8Y7MwN6NUsUg",
@@ -127,7 +135,11 @@
         "sorting": "m",
         "sort": 0,
         "color": "#00ccff",
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Stunts"
+            }
+        }
     },
     {
         "_id": "DnbgpQFNdmdrroaN",
