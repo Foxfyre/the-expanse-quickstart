@@ -2,7 +2,7 @@
   "name": "the-expanse-quickstart",
   "title": "The Expanse Quickstart",
   "description": "The quickstart for The Expanse by Green Ronin. This contains Module contains everything you need to run your first game of The Expanse. The Expanse system is required for this module to function",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "author": "Charlotte Hamilton",
   "system": [
     "the_expanse"
@@ -50,5 +50,5 @@
   "compatibleCoreVersion": "0.8.8",
   "url": "https://github.com/Foxfyre/the_expanse",
   "manifest": "https://raw.githubusercontent.com/Foxfyre/the-expanse-quickstart/main/module.json",
-  "download": "https://github.com/Foxfyre/the-expanse-quickstart/releases/download/v0.9.2/the-expanse-quickstart.zip"
+  "download": "https://github.com/Foxfyre/the-expanse-quickstart/releases/download/v0.9.3/the-expanse-quickstart.zip"
 }
