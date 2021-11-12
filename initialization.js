@@ -94,7 +94,7 @@ class TheExpanseQSInitialization extends Dialog {
 
                 await this.initializeEntities()
                 /* This need's to be turned on when scenes are present */
-                //await this.initializeScenes()
+                await this.initializeScenes()
                 resolve()
 
             })
@@ -140,8 +140,8 @@ class TheExpanseQSInitialization extends Dialog {
     }
 
 
-    /* This need's to be turned one when there are scenes to import */
-    /*async initializeScenes() {
+     /*This need's to be turned one when there are scenes to import */
+    async initializeScenes() {
         ui.notifications.notify("Initializing Scenes")
         let m = game.packs.get(`${this.moduleKey}.starter-set-maps`)
         let maps = await m.getDocuments()
@@ -156,7 +156,7 @@ class TheExpanseQSInitialization extends Dialog {
                 s.update({ "thumb": thumb.thumb })
             })
         })
-    }*/
+    }
 }
 
 class TheExpanseQSInitializationSetup {

@@ -1,9 +1,9 @@
 [
     {
-        "_id": "KRnPpTbzCVINsD4V",
+        "_id": "Vz6Q6SjuOHW5USGy",
         "name": "Adventure",
         "type": "JournalEntry",
-        "parent": "e7161gznuE9ezT6N",
+        "parent": "gVEbpGbxws77iP1W",
         "sorting": "m",
         "sort": 62500,
         "color": "#00c732",
@@ -14,10 +14,10 @@
         }
     },
     {
-        "_id": "Af26kPsqkqVSE47S",
+        "_id": "L8O4uEfzi2F1LdZd",
         "name": "Combat Stunts",
         "type": "Item",
-        "parent": "DnbgpQFNdmdrroaN",
+        "parent": "p3tNr8ouPL1MZ0Th",
         "sorting": "m",
         "sort": 0,
         "color": "#5729ff",
@@ -28,10 +28,10 @@
         }
     },
     {
-        "_id": "e7161gznuE9ezT6N",
+        "_id": "gVEbpGbxws77iP1W",
         "name": "Cupbearer",
         "type": "JournalEntry",
-        "parent": "hgIzKW00d7xDtAHS",
+        "parent": "TU7o3VLRHXvrkctb",
         "sorting": "m",
         "sort": 100000,
         "color": "#007bff",
@@ -42,10 +42,10 @@
         }
     },
     {
-        "_id": "HKAmeX1Y1r3Qwihj",
+        "_id": "ESveo1XKZYOaDVZG",
         "name": "Exploration Stunts",
         "type": "Item",
-        "parent": "DnbgpQFNdmdrroaN",
+        "parent": "p3tNr8ouPL1MZ0Th",
         "sorting": "m",
         "sort": 0,
         "color": "#00a851",
@@ -56,10 +56,10 @@
         }
     },
     {
-        "_id": "eFdg8Y7MwN6NUsUg",
+        "_id": "ehIoImSyh9qr9o4P",
         "name": "GM Assets",
         "type": "JournalEntry",
-        "parent": "e7161gznuE9ezT6N",
+        "parent": "gVEbpGbxws77iP1W",
         "sorting": "m",
         "sort": 25000,
         "color": "#fc47ff",
@@ -70,7 +70,7 @@
         }
     },
     {
-        "_id": "4okIZN4ls32sEWtO",
+        "_id": "QKJ83oFwaRC1Jkic",
         "name": "NPCs",
         "type": "Actor",
         "parent": null,
@@ -80,10 +80,10 @@
         "flags": {}
     },
     {
-        "_id": "XMAiaBQ71cBCeoPM",
+        "_id": "jNmRw1n5P0LXZF9n",
         "name": "Player Handouts",
         "type": "JournalEntry",
-        "parent": "e7161gznuE9ezT6N",
+        "parent": "gVEbpGbxws77iP1W",
         "sorting": "a",
         "sort": 43750,
         "color": "#fd2b39",
@@ -94,7 +94,7 @@
         }
     },
     {
-        "_id": "QdQyKHxghAvI0dfg",
+        "_id": "IVuN5TZd4VcUxX8i",
         "name": "Pregens",
         "type": "Actor",
         "parent": null,
@@ -104,7 +104,7 @@
         "flags": {}
     },
     {
-        "_id": "hgIzKW00d7xDtAHS",
+        "_id": "TU7o3VLRHXvrkctb",
         "name": "Quickstart",
         "type": "JournalEntry",
         "parent": null,
@@ -114,10 +114,10 @@
         "flags": {}
     },
     {
-        "_id": "wg4AWwmc99Xy2HSU",
+        "_id": "Cycih0J44BAeYyWN",
         "name": "Quickstart Rules",
         "type": "JournalEntry",
-        "parent": "hgIzKW00d7xDtAHS",
+        "parent": "TU7o3VLRHXvrkctb",
         "sorting": "m",
         "sort": 0,
         "color": "#0091ff",
@@ -128,10 +128,10 @@
         }
     },
     {
-        "_id": "ENVNiI7XzWM3bY96",
+        "_id": "djuWZXlkHiDvlD9i",
         "name": "Social Stunts",
         "type": "Item",
-        "parent": "DnbgpQFNdmdrroaN",
+        "parent": "p3tNr8ouPL1MZ0Th",
         "sorting": "m",
         "sort": 0,
         "color": "#00ccff",
@@ -142,7 +142,7 @@
         }
     },
     {
-        "_id": "DnbgpQFNdmdrroaN",
+        "_id": "p3tNr8ouPL1MZ0Th",
         "name": "Stunts",
         "type": "Item",
         "parent": null,
@@ -152,17 +152,7 @@
         "flags": {}
     },
     {
-        "_id": "bNyXU9sj2AJipUv1",
-        "name": "Style Guide",
-        "type": "JournalEntry",
-        "parent": null,
-        "sorting": "m",
-        "sort": 0,
-        "color": "#097901",
-        "flags": {}
-    },
-    {
-        "_id": "jFh0C0GMoJedx8qs",
+        "_id": "k89L3CjZtrGSoAfh",
         "name": "Talents",
         "type": "Item",
         "parent": null,
@@ -172,7 +162,7 @@
         "flags": {}
     },
     {
-        "_id": "mPlbN6l2zz1Wmv1q",
+        "_id": "LCpXL8D1FNEfOTDE",
         "name": "Weapons",
         "type": "Item",
         "parent": null,
