@@ -43,13 +43,6 @@
       "name": "scenes-quickstart",
       "path": "packs/scenes-quickstart.db",
       "system": "the_expanse"
-    },
-    {
-      "label": "Rolltables (Quickstart)",
-      "entity": "RollTable",
-      "name": "rolltables-quickstart",
-      "path": "packs/rolltables-quickstart.db",
-      "system": "the_expanse"
     }
   ],
   "flags": {
@@ -57,8 +50,7 @@
       "the-expanse-quickstart.items-quickstart",
       "the-expanse-quickstart.actors-quickstart",
       "the-expanse-quickstart.journals-quickstart",
-      "the-expanse-quickstart.scenes-quickstart",
-      "the-expanse-quickstart.rolltables-quickstart"
+      "the-expanse-quickstart.scenes-quickstart"
     ]
   },
   "languages": [],
