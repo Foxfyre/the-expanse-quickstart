@@ -143,7 +143,7 @@ class TheExpanseQSInitialization extends Dialog {
      /*This need's to be turned one when there are scenes to import */
     async initializeScenes() {
         ui.notifications.notify("Initializing Scenes")
-        let m = game.packs.get(`${this.moduleKey}.starter-set-maps`)
+        let m = game.packs.get(`${this.moduleKey}.scenes-quickstart`)
         let maps = await m.getDocuments()
         for (let map of maps) {
             let folder = map.getFlag(this.moduleKey, "initialization-folder")
