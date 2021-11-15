@@ -56,6 +56,16 @@
         }
     },
     {
+        "_id": "KorzdHMPdoDOUb83",
+        "name": "Game Tools",
+        "type": "Scene",
+        "parent": null,
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {}
+    },
+    {
         "_id": "oENHSrcVIR5KACrH",
         "name": "GM Assets",
         "type": "JournalEntry",
@@ -169,16 +179,6 @@
         "sorting": "a",
         "sort": 0,
         "color": "#d10000",
-        "flags": {}
-    },
-    {
-        "_id": "KorzdHMPdoDOUb83",
-        "name": "Game Tools",
-        "type": "Scene",
-        "parent": null,
-        "sorting": "a",
-        "sort": 0,
-        "color": null,
         "flags": {}
     }
 ]
