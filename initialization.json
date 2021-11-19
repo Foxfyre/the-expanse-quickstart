@@ -63,7 +63,11 @@
         "sorting": "a",
         "sort": 100000,
         "color": null,
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Quickstart"
+            }
+        }
     },
     {
         "_id": "oENHSrcVIR5KACrH",
@@ -87,7 +91,11 @@
         "sorting": "m",
         "sort": 100000,
         "color": "#2e51ff",
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Quickstart"
+            }
+        }
     },
     {
         "_id": "aX2Y2RhMbB33DN9o",
@@ -111,7 +119,11 @@
         "sorting": "a",
         "sort": 0,
         "color": "#ff6f00",
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Quickstart"
+            }
+        }
     },
     {
         "_id": "4m7Br4DHfQORLUS0",
@@ -189,7 +201,11 @@
         "sorting": "a",
         "sort": 300000,
         "color": "#014b6a",
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Quickstart"
+            }
+        }
     },
     {
         "_id": "J2KG1D1tfv8BK7tM",
@@ -199,7 +215,11 @@
         "sorting": "a",
         "sort": 200000,
         "color": "#1db927",
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Quickstart"
+            }
+        }
     },
     {
         "_id": "d3ntDXUby7KtT24Y",
@@ -209,6 +229,10 @@
         "sorting": "a",
         "sort": 100000,
         "color": "#d10000",
-        "flags": {}
+        "flags": {
+            "the-expanse-quickstart": {
+                "initialization-parent": "Quickstart"
+            }
+        }
     }
 ]
