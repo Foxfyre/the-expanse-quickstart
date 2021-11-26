@@ -1,10 +1,20 @@
 {
   "name": "the-expanse-quickstart",
   "title": "The Expanse Quickstart",
-  "description": "The quickstart for The Expanse by Green Ronin. This contains Module contains everything you need to run your first game of The Expanse. The Expanse system is required for this module to function",
+  "description": "The quickstart for The Expanse by Green Ronin. This Module contains everything you need to run your first game of The Expanse. The Expanse system is required for this module to function",
   "version": "1.0.0",
   "author": "Charlotte Hamilton",
-  "publisher": "Green Ronin Publishing",
+  "authors": [
+    {
+      "name": "Foxfyre",
+      "email": "foxfyre2204@gmail.com",
+      "discord": "Foxfyre#2204"
+    },
+    {
+      "name": "Green Ronin Publishing",
+      "email": "letsplay@greenronin.com"
+    }
+  ],
   "system": [
     "expanse"
   ],
