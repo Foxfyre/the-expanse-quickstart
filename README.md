@@ -20,8 +20,8 @@
             and their associated logos are trademarks of Green Ronin Publishing, LLC. The Expanse is © 2011-2019 Daniel Abraham and Ty Franck.</br>
 
 
-Published by:<b>Green Ronin Publishing</b>
+Published by: <b>Green Ronin Publishing</b>
 
-Foundry System by:<b>Charlotte Hamilton (Foxfyre)</b><br>
+Foundry System by: <b>Charlotte Hamilton (Foxfyre)</b><br>
 
 <a href="mailto:letsplay@greenronin.com"></a></p>
