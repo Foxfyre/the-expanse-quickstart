@@ -1,73 +1,53 @@
 {
-  "name": "the-expanse-quickstart",
+  "id": "the-expanse-quickstart",
   "title": "The Expanse Quickstart",
   "description": "The quickstart for The Expanse by Green Ronin. This Module contains everything you need to run your first game of The Expanse. The Expanse system is required for this module to function",
-  "version": "1.0.1",
-  "author": "Charlotte Hamilton",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Foxfyre",
       "email": "foxfyre2204@gmail.com",
-      "discord": "Foxfyre#2204"
+      "discord": "Foxfyre#2204",
+      "flags": {}
     },
     {
       "name": "Green Ronin Publishing",
-      "email": "letsplay@greenronin.com"
+      "email": "letsplay@greenronin.com",
+      "flags": {}
     }
   ],
-  "system": [
-    "expanse"
-  ],
   "scripts": [
-    "initialization.js"
   ],
   "packs": [
     {
-      "label": "Items (Quickstart)",
-      "entity": "Item",
-      "name": "items-quickstart",
-      "path": "packs/items-quickstart.db",
+      "label": "The Expanse Quickstart",
+      "name": "the-expanse-quickstart",
+      "path": "packs/the-expanse-quickstart.db",
       "system": "expanse",
-      "tags": [
-        "weapons",
-        "talents",
-        "stunts"
-      ]
-    },
-    {
-      "label": "Actors (Quickstart)",
-      "entity": "Actor",
-      "name": "actors-quickstart",
-      "path": "packs/actors-quickstart.db",
-      "system": "expanse"
-    },
-    {
-      "label": "Journals (Quickstart)",
-      "entity": "JournalEntry",
-      "name": "journals-quickstart",
-      "path": "packs/journals-quickstart.db",
-      "system": "expanse"
-    },
-    {
-      "label": "Scenes (Quickstart)",
-      "entity": "Scene",
-      "name": "scenes-quickstart",
-      "path": "packs/scenes-quickstart.db",
-      "system": "expanse"
+      "type": "Adventure",
+      "private": false,
+      "flags": {}
     }
   ],
   "flags": {
     "initializationPacks": [
-      "the-expanse-quickstart.items-quickstart",
-      "the-expanse-quickstart.actors-quickstart",
-      "the-expanse-quickstart.journals-quickstart",
-      "the-expanse-quickstart.scenes-quickstart"
     ]
   },
-  "languages": [],
-  "minimumCoreVersion": "0.8.7",
-  "compatibleCoreVersion": "0.8.9",
   "url": "https://github.com/Foxfyre/the-expanse-quickstart",
-  "manifest": "https://raw.githubusercontent.com/Foxfyre/the-expanse-quickstart/main/module.json",
-  "download": "https://github.com/Foxfyre/the-expanse-quickstart/releases/download/v1.0.1/the-expanse-quickstart.zip"
+  "manifest": "https://github.com/Foxfyre/the-expanse-quickstart/releases/latest/download/module.json",
+  "download": "https://github.com/Foxfyre/the-expanse-quickstart/releases/download/1.1.0/the-expanse-quickstart.zip",
+  "relationships": {
+    "systems": [
+      {
+        "id": "expanse",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291",
+    "maximum": "10"
+  }
 }
