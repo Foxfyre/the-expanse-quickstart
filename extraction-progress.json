@@ -8,11 +8,12 @@
     "GRR96656_TotE_Trader-Smuggler_2024-07-16.pdf",
     "GRR96657_TotE_Pirate_2024-07-23.pdf",
     "GRR6609_SolSystem_2024-07-10.pdf",
-    "GRR6607e_ShipsOfTheExpanse_v1.pdf"
+    "GRR6607e_ShipsOfTheExpanse_v1.pdf",
+    "GRR6610_TheExpanse_TUE_Core_2025-12-17.pdf"
   ],
-  "current_pdf": "GRR6610_TheExpanse_TUE_Core_2025-12-17.pdf",
-  "items_added": 78,
-  "actors_added": 0,
-  "last_updated": "2026-01-10T04:30:00Z",
-  "notes": "Bounty Hunter: 1 talent, 3 stunts. Scout: 1 talent, 3 stunts. Planetary Surveyor: 1 talent, 5 stunts. Journalist: 1 talent, 3 stunts. Entertainer: 1 talent, 2 stunts. Trader-Smuggler: 2 talents, 3 stunts. Pirate: 1 talent. Sol System: 31 organization stunts. Ships: 20 ship combat stunts."
+  "current_pdf": null,
+  "items_added": 273,
+  "actors_added": 12,
+  "last_updated": "2026-01-10T05:00:00Z",
+  "notes": "EXTRACTION COMPLETE. All 10 PDFs processed. Database contains: 187 stunts, 63 talents, 23 weapons, 12 actors. TUE Core added: 39 talents (24 core + 15 specializations), 98 stunts (combat, gun, grappling, melee, vehicle, exploration, infiltration, social, attitude, reputation), 18 weapons."
 }
