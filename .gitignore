@@ -1,0 +1,13 @@
+# PDFs (copyrighted content)
+pdfs/
+pdfs_clean/
+
+# Extracted text (can be regenerated)
+pdfs_text/
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+*.swp

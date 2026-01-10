@@ -1,0 +1,18 @@
+{
+  "completed_pdfs": [
+    "GRR96651e_TotE_BountyHunter_v3.pdf",
+    "GRR96652_TotE_Scout_2023-08-09.pdf",
+    "GRR96653_TotE_PlanetarySurveyor_v.1.0.pdf",
+    "GRR96654_TotE_Journalist_2024-07-11.pdf",
+    "GRR96655_TotE_Entertainer_2024-05-06.pdf",
+    "GRR96656_TotE_Trader-Smuggler_2024-07-16.pdf",
+    "GRR96657_TotE_Pirate_2024-07-23.pdf",
+    "GRR6609_SolSystem_2024-07-10.pdf",
+    "GRR6607e_ShipsOfTheExpanse_v1.pdf"
+  ],
+  "current_pdf": "GRR6610_TheExpanse_TUE_Core_2025-12-17.pdf",
+  "items_added": 78,
+  "actors_added": 0,
+  "last_updated": "2026-01-10T04:30:00Z",
+  "notes": "Bounty Hunter: 1 talent, 3 stunts. Scout: 1 talent, 3 stunts. Planetary Surveyor: 1 talent, 5 stunts. Journalist: 1 talent, 3 stunts. Entertainer: 1 talent, 2 stunts. Trader-Smuggler: 2 talents, 3 stunts. Pirate: 1 talent. Sol System: 31 organization stunts. Ships: 20 ship combat stunts."
+}
